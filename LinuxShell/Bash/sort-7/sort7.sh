@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -t '|' -k 2 -r
+sort -n -t '|' -k 2 -r
